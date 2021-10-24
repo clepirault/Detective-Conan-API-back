@@ -9,8 +9,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL,
-    credentials: true
+    origin: process.env.FRONTEND_URL
   })
 );
 
@@ -26,6 +25,8 @@ app.get('/characters', (req, res) => {
       res.status(200).json(results);
     }
   });
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Credentials', 'true');
 });
 
 app.listen(port, () => {
