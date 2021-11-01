@@ -1,4 +1,4 @@
-# Detective Conan API - Backend project
+# Detective Conan API - Backend
 
 👉 Watch frontend project : [here](https://github.com/clepirault/Detective-Conan-API-front)
 
