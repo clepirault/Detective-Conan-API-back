@@ -3,7 +3,7 @@
 👉 Watch frontend project : [here](https://github.com/clepirault/Detective-Conan-API-front)
 
 ## Stack 💎 :
-**Node, MySQL**
+**Node, Express, MySQL**
 
 ## Links 🔗 :
 * [Frontend project](https://github.com/clepirault/Detective-Conan-API-front)
