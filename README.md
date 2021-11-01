@@ -1,9 +1,9 @@
 # Detective Conan API - Backend project
 
-<p>👉 Watch frontend project : [here](https://github.com/clepirault/Detective-Conan-API-front) </p>
+👉 Watch frontend project : [here](https://github.com/clepirault/Detective-Conan-API-front)
 
 ## Stack 💎 :
-<p>**Node, MySQL**</p>
+**Node, MySQL**
 
 ## Links 🔗 :
 * [Frontend project](https://github.com/clepirault/Detective-Conan-API-front)
